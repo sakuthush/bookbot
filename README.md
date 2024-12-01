@@ -1,2 +1,2 @@
 # bookbot
-bookbot last work of FrankieMy gods
+BookBot is my first project!
